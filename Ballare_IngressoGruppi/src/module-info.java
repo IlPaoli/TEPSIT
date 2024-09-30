@@ -1,0 +1,2 @@
+module Ballare_IngressoGruppi {
+}
