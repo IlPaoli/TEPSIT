@@ -1,0 +1,2 @@
+module UnProduttoreTantiConsumatori_BestEffort {
+}
