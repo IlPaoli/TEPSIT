@@ -14,7 +14,7 @@ public class Gestore {
 				delta = System.currentTimeMillis();
 				disco.getPersone();
 			}
-			if(currentTime - delta >= 100)
+			if(currentTime - delta >= 10)
 				disco.entra(new Gruppo(10, listaDisco));
 		}
 	}
